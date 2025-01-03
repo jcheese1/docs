@@ -5,7 +5,7 @@
 		"dark": "/logo/ride.svg",
 		"light": "/logo/ride.svg"
 	},
-	"favicon": "/favicon.svg",
+	"favicon": "/logo/ride.svg",
 	"colors": {
 		"primary": "#ec0009",
 		"light": "#ec0009",
